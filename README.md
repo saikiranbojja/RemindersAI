@@ -1,4 +1,6 @@
 Microsoft Hackathon 2024
+Name: Bojja Sai Kiran 
+Email: bojjasai@iisc.ac.in
 
 AI Powered Personal Assistant
 
