@@ -4,7 +4,7 @@ AI Powered Personal Assistant
 
 Open below link to watch demo video.
 
-Open below link to chat with AI Assistant and set reminders.
+Open below link to chat with AI Assistant and set reminders.(Use edge or chrome brouser)
 
 https://saikiranbojja.github.io/RemindersAI/
 
