@@ -4,6 +4,7 @@ Email: bojjasai@iisc.ac.in
 
 AI Powered Personal Assistant  
 Open below link to watch demo video.   
+https://youtu.be/AKVI82GP2GU
 
 Open below link to chat with AI Assistant and set reminders.(Use chrome or edge browser)  
 
